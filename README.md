@@ -42,6 +42,10 @@ Using **SBERT embeddings + UMAP + HDBSCAN**, we identify meaningful patterns in 
   - 2020 (COVID-19 mental health impact)  
 
 ---
+## 📓 Notebooks
+
+- [Data Preprocessing](notebooks/01_data_preprocessing.ipynb)  
+- [Temporal Pattern Mining Pipeline](notebooks/02_temporal_pattern_mining_pipeline.ipynb)
 
 ## 🧠 Methodology
 
